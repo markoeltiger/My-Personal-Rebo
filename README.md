@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Mark Saif</h1>
+<h1 align="center">Hi 👋, I'm Mark Saif</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markoeltiger&label=Profile%20views&color=0e75b6&style=flat" alt="markoeltiger" /> </p>
@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- ðŸ”­ Iâ€™m currently working on [CryptoWorld(MVVM-Jetpack Compose-Dagger Hilt))](https://github.com/markoeltiger/CryptoWorld)
+- 🔭 I’m currently working on [CryptoWorld(MVVM-Jetpack Compose-Dagger Hilt))](https://github.com/markoeltiger/CryptoWorld)
 
-- ðŸŒ± Iâ€™m currently learning **Jetpack Compose ,Courotines**
+- 🌱 I’m currently learning **Jetpack Compose ,Courotines**
 
-- ðŸ‘¨â€ðŸ’» All of my projects are available at [https://github.com/markoeltiger?tab=repositories](https://github.com/markoeltiger?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/markoeltiger?tab=repositories](https://github.com/markoeltiger?tab=repositories)
 
-- ðŸ’¬ Ask me about **Android ,Java and Kotlin**
+- 💬 Ask me about **Android ,Java and Kotlin**
 
-- ðŸ“« How to reach me **markosaif8@gmail.com**
+- 📫 How to reach me **markosaif8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markoeltiger&show_icons=true&locale=en" alt="markoeltiger" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markoeltiger&" alt="markoeltiger" /></p>
-
