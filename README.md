@@ -1,4 +1,4 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Mark Saif</h1>
+<h1 align="center">Hi , I'm Mark Saif</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markoeltiger&label=Profile%20views&color=0e75b6&style=flat" alt="markoeltiger" /> </p>
